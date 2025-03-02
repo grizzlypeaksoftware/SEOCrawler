@@ -17,7 +17,7 @@ A powerful JavaScript-based SEO crawler that analyzes websites, generates detail
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shanelarson/seo-crawler.git
+   git clone https://github.com/grizzlypeaksoftware/SEOCrawler.git
    cd seo-crawler
    ```
 2. Install dependencies:
